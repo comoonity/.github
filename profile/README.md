@@ -1,8 +1,8 @@
 # Hello world from Comoonity
 ### Comoonity is a new platform with a mission to support local businesses and people
-We provide residents with an app to see and follow all local businesses in their chosen community, seperated into categories and detailing the businesses offers.
+We provide residents with an app to see and follow all local businesses in their chosen community, seperated into categories and detailing the business's offers.
 In addition, businesses that sign up are not only hosted on our platform but are provided assistance with marketing and are able to connect with their followers through our platform.
-We accomplish this with 3 products, Comoonity's app, Comooniyt Growth and Comoonity Network.
+We accomplish this with 3 products, Comoonity's app, Comoonity Growth and Comoonity Network.
 
 ## Applications
 A list of our applications used within the project:
